@@ -175,4 +175,4 @@ cython_debug/
 
 #Discord stuff
 
-
+./configs/general_configs.yaml
